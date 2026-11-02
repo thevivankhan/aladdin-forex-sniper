@@ -1,0 +1,6 @@
+{
+  "name": "PocketSniper - Real-Time Dynamic Staking Trading System",
+  "description": "High-precision dynamic staking and money management calculator for Pocket Option and binary options trading with SniperCORE algorithm, session logs, and P&L calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
